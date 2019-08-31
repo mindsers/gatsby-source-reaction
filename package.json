@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-source-reaction",
+  "version": "0.0.0",
+  "description": "Gatsby plugin which fetch data from a reaction commerce server",
+  "author": "Nathanaël Cherrier <dev@nathanaelcherrier.com>",
+  "homepage": "https://github.com/mindsers/gatsby-source-reaction",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mindsers/gatsby-source-reaction"
+  },
+  "engines": {
+    "node": ">= 8.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/mindsers/gatsby-source-reaction/issues"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "reaction",
+    "commerce",
+    "reaction commerce",
+    "eshop"
+  ]
+}
